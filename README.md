@@ -55,12 +55,12 @@ Now, with the setup ready, follow these steps:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/FlashKeyPro/FlashKeyWallet.git
+   git clone https://github.com/FlashKeyPro/FlashKey_wallet.git
    ```  
 
 2. **Navigate to the FlashKeyWallet directory:**  
    ```bash
-   cd FlashKeyWallet
+   cd FlashKey_wallet
    ```  
 
 3. **Create a virtual environment:**  
